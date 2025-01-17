@@ -8,6 +8,3 @@
 <p align"center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldavemena&layout=compact&theme=dark#gh-dark-mode-only"/>
 </p>
-
-# Socials
-![Static Badge](https://img.shields.io/badge/discord-%235865F2?style=for-the-badge&logo=discord&logoColor=%235865F2&labelColor=black&color=%235865F2)
