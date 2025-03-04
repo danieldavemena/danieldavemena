@@ -16,7 +16,7 @@
 
 # Stats
 
-<div>
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
   <img height="175px" src="https://github-readme-stats.vercel.app/api?username=danieldavemena&show_icons=true&theme=dracula"/>
   <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldavemena&hide_progress=true&theme=dracula"/>
 </div>
