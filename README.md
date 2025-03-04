@@ -15,6 +15,9 @@
 
 
 # Stats
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=danieldavemena&show_icons=true&theme=dracula)
+
 <p align"center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldavemena&layout=compact&theme=dark#gh-dark-mode-only"/>
 </p>
