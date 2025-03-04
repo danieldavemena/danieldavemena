@@ -5,7 +5,7 @@
 ![badge](https://img.shields.io/badge/TAILWIND_CSS-5ebfe8.svg?style=flat&logo=Tailwind-CSS&logoColor=5ebfe8&labelColor=000000)
 ![badge](https://img.shields.io/badge/NODEJS-7cec32.svg?style=flat&logo=Node.js&logoColor=7cec32&labelColor=000000)
 ![badge](https://img.shields.io/badge/FLUTTER-4bc9e2.svg?style=flat&logo=Flutter&logoColor=4bc9e2&labelColor=000000)
-![badge](https://img.shields.io/badge/linux-000000.svg?style=flat&logo=Linux&logoColor=ffffff&labelColor=000000)
+![badge](https://img.shields.io/badge/LINUX-ffffff.svg?style=flat&logo=Linux&logoColor=ffffff&labelColor=000000)
 ![badge](https://img.shields.io/badge/javascript-ffffff.svg?style=for-the-badge&logo=JavaScript&logoColor=fff705&labelColor=ffffff)
 ![badge](https://img.shields.io/badge/html-ffffff.svg?style=for-the-badge&logo=HTML5&logoColor=ff8800&labelColor=ffffff)
 ![badge](https://img.shields.io/badge/CSS-ffffff.svg?style=for-the-badge&logo=CSS3&logoColor=00bfff&labelColor=ffffff)
