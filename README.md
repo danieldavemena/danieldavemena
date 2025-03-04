@@ -16,5 +16,10 @@
 
 # Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=danieldavemena&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieldavemena&hide_progress=true&theme=dracula)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=danieldavemena&show_icons=true&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldavemena&hide_progress=true&theme=dracula"/>
+</div>
+
+![My GitHub Stats]()
+![Top Langs]()
