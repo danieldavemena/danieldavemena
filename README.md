@@ -17,6 +17,6 @@
 # Stats
 
 <div>
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=danieldavemena&show_icons=true&theme=dracula"/>
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldavemena&layout=pie&theme=dracula"/>
+  <img height="170px" width="200px src="https://github-readme-stats.vercel.app/api?username=danieldavemena&show_icons=true&theme=dracula"/>
+  <img height="170px" width="200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldavemena&layout=pie&theme=dracula"/>
 </div>
