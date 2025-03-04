@@ -1,7 +1,7 @@
 
 
 ![badge](https://img.shields.io/badge/NEXTJS-000000.svg?style=flat&logo=Next.js&logoColor=ffffff&labelColor=000000)
-![badge](https://img.shields.io/badge/SUPABASE-ffffff.svg?style=flat&logo=Supabase&logoColor=7cd08a&labelColor=ffffff)
+![badge](https://img.shields.io/badge/SUPABASE-ffffff.svg?style=flat&logo=Supabase&logoColor=7cd08a&labelColor=000000)
 ![badge](https://img.shields.io/badge/TAILWIND_CSS-ffffff.svg?style=flat&logo=Tailwind-CSS&logoColor=5ebfe8&labelColor=ffffff)
 ![badge](https://img.shields.io/badge/nodejs-ffffff.svg?style=for-the-badge&logo=Node.js&logoColor=7cec32&labelColor=ffffff)
 ![badge](https://img.shields.io/badge/flutter-ffffff.svg?style=for-the-badge&logo=Flutter&logoColor=4bc9e2&labelColor=ffffff)
