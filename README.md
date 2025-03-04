@@ -17,5 +17,4 @@
 # Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=danieldavemena&show_icons=true&theme=dracula)
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=danieldavemena&layout=compact&theme=dracula)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieldavemena&hide_progress=true&theme=dracula)
