@@ -7,9 +7,9 @@
 ![badge](https://img.shields.io/badge/FLUTTER-4bc9e2.svg?style=flat&logo=Flutter&logoColor=4bc9e2&labelColor=000000)
 ![badge](https://img.shields.io/badge/LINUX-ffffff.svg?style=flat&logo=Linux&logoColor=ffffff&labelColor=000000)
 ![badge](https://img.shields.io/badge/JAVASCRIPT-fff705.svg?style=flat&logo=JavaScript&logoColor=fff705&labelColor=000000)
-![badge](https://img.shields.io/badge/HTML-ff8800.svg?style=for-the-badge&logo=HTML5&logoColor=ff8800&labelColor=000000)
-![badge](https://img.shields.io/badge/CSS-ffffff.svg?style=for-the-badge&logo=CSS3&logoColor=00bfff&labelColor=ffffff)
-![badge](https://img.shields.io/badge/Arduino-ffffff.svg?style=for-the-badge&logo=Arduino&logoColor=00ffcc&labelColor=ffffff)
+![badge](https://img.shields.io/badge/HTML-ff8800.svg?style=flat&logo=HTML5&logoColor=ff8800&labelColor=000000)
+![badge](https://img.shields.io/badge/CSS-00bfff.svg?style=flat&logo=CSS3&logoColor=00bfff&labelColor=000000)
+![badge](https://img.shields.io/badge/ARDUINO-00ffcc.svg?style=flat&logo=Arduino&logoColor=00ffcc&labelColor=000000)
 
 
 
