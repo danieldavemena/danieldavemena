@@ -6,8 +6,8 @@
 ![badge](https://img.shields.io/badge/NODEJS-7cec32.svg?style=flat&logo=Node.js&logoColor=7cec32&labelColor=000000)
 ![badge](https://img.shields.io/badge/FLUTTER-4bc9e2.svg?style=flat&logo=Flutter&logoColor=4bc9e2&labelColor=000000)
 ![badge](https://img.shields.io/badge/LINUX-ffffff.svg?style=flat&logo=Linux&logoColor=ffffff&labelColor=000000)
-![badge](https://img.shields.io/badge/javascript-ffffff.svg?style=for-the-badge&logo=JavaScript&logoColor=fff705&labelColor=ffffff)
-![badge](https://img.shields.io/badge/html-ffffff.svg?style=for-the-badge&logo=HTML5&logoColor=ff8800&labelColor=ffffff)
+![badge](https://img.shields.io/badge/JAVASCRIPT-fff705.svg?style=flat&logo=JavaScript&logoColor=fff705&labelColor=000000)
+![badge](https://img.shields.io/badge/HTML-ff8800.svg?style=for-the-badge&logo=HTML5&logoColor=ff8800&labelColor=000000)
 ![badge](https://img.shields.io/badge/CSS-ffffff.svg?style=for-the-badge&logo=CSS3&logoColor=00bfff&labelColor=ffffff)
 ![badge](https://img.shields.io/badge/Arduino-ffffff.svg?style=for-the-badge&logo=Arduino&logoColor=00ffcc&labelColor=ffffff)
 
