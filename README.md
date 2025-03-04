@@ -16,7 +16,7 @@
 
 # Stats
 
-<div>
+<div style="background-color: black;">
   <img height="170px"  src="https://github-readme-stats.vercel.app/api?username=danieldavemena&show_icons=true&theme=transparent"/>
   <img height="170px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldavemena&hide_border=true&hide_progress=true&theme=transparent"/>
 </div>
