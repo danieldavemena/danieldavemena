@@ -16,7 +16,7 @@
 
 # Stats
 
-<div>
+<div style="width: 100%">
   <img src="https://github-readme-stats.vercel.app/api?username=danieldavemena&show_icons=true&theme=dracula"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldavemena&hide_progress=true&theme=dracula"/>
 </div>
